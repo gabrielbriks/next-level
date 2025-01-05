@@ -62,7 +62,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## **Contato**
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **Email:** gabrieel.moraiis1@gmail.com
-- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/user?)
+- **LinkedIn:** [Gabriel Morais] /*(https://www.linkedin.com/in/user?)*/
 
 ---
 
